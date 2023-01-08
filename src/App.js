@@ -149,7 +149,7 @@ const App = () => {
             />
           );
         })}
-        <small>ecvii 2022</small>
+        <small>ecvii 2023</small>
       </ButtonBox>
     </Wrapper>
   );
